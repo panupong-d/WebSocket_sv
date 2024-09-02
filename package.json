@@ -1,0 +1,12 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ws.js",
+  "scripts": {
+    "start": "node ws.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
